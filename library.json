@@ -1,0 +1,25 @@
+{
+    "name": "PID",
+    "version": "1.0.0",
+    "description": "Simple PID Controller",
+    "keywords": "PID",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/0804robot/PID.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Sammy Oina",
+        "email": "sammyoina@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
